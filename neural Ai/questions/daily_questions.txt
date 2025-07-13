@@ -1,0 +1,106 @@
+# Daily Questions - Copy and paste your questions here (one per line)
+
+# Example questions (delete these and add your own):
+What is artificial intelligence?
+How does machine learning work?
+What are the latest developments in renewable energy?
+What is the main goal of your project?
+
+How does your idea help people in real life?
+
+What makes your project different from others?
+
+How does AI play a role in your system?
+
+What tools are you using for development?
+
+Why did you choose this technology stack?
+
+How will your system handle user data securely?
+
+Is your project scalable in the future?
+
+Who is your target audience?
+
+What challenges are you currently facing?
+
+How can this system work offline and online?
+
+Can your project work on low-end devices?
+
+What inspired you to start this idea?
+
+How do you plan to monetize this app?
+
+What are the biggest technical risks?
+
+Is there any competition doing similar work?
+
+How do you protect your idea legally?
+
+Can this system be open source?
+
+What backend system are you using?
+
+How do users interact with the interface?
+
+Can your AI respond to emotional input?
+
+What is the future vision of this project?
+
+How do you manage version control and updates?
+
+Are you integrating voice or facial recognition?
+
+Is this system safe for kids or older people?
+
+How much funding would you need to launch?
+
+Have you contacted any mentors or advisors?
+
+What improvements do you want to add next?
+
+Is your project available on mobile platforms?
+
+Are you using any cloud services like Firebase?
+
+What AI models are integrated in your system?
+
+What do users say about your project so far?
+
+Can your system generate personalized responses?
+
+Is there a fallback system if AI fails?
+
+What is the estimated timeline for full launch?
+
+Are you tracking user feedback or usage?
+
+How can people contribute to your project?
+
+Can your AI simulate human conversations?
+
+What kind of data does your system collect?
+
+Do you have a working prototype or demo?
+
+Is your codebase modular and clean?
+
+How do you ensure low latency performance?
+
+Have you submitted this to any competitions?
+
+What is your plan for global accessibility?
+
+Can your system work in different languages?
+
+Have you tested it with real users?
+
+What are the ethical considerations of your AI?
+
+How do you plan to update or evolve the system?
+
+What makes your app trustworthy to users?
+
+What is your next goal after this project?
+

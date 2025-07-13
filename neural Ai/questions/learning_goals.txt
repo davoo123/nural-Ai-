@@ -1,0 +1,6 @@
+# Learning Goals - Questions about topics you want to learn
+
+# Example learning goals (customize for your interests):
+How can I improve my programming skills?
+What are the best practices for AI development?
+How does blockchain technology work?
